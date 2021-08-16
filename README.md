@@ -1,12 +1,8 @@
 # Guess-The-Number
-A simple "Guess The Number" game
+A simple "Guess The Number" game developed in an afernoon with 1 week of C# learning experience
 
-An easy version for a Guess The Number game. It features 4 difficulty levels.
+It features 4 difficulty levels with varying number ranges and max attempts at guesses.
 
-Version 1.0 Base protoype
+The design follow a defensive coding approach.
 
-Version 1.5 Adjusted overall difficulty. Added Switch construction in Main method.
-
-Versión 1.6 Little tweaks to the code. Changed the number range for difficulty 3.
-
-Created by OuterGazer
+.NET Framework needs to be updated to the last version.
